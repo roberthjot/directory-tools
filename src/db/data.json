@@ -423,14 +423,6 @@
         "tags": ["saas", "dashboard", "light theme"]
     },
     {
-        "name": "Socialblade - Youtube",
-        "category": "Seo-tool",
-        "previewUrl": "https://socialblade.com/",
-        "githubUrl": "https://socialblade.com/",
-        "previewImg": "https://page2images.b-cdn.net/ccimages/b2/cd/CJKheJ2P3lhwI7Q4.png", 
-        "tags": ["saas", "dashboard", "light theme"]
-    },
-    {
         "name": "Thispersondoesnotexist",
         "category": "Seo-tool",
         "previewUrl": "https://thispersondoesnotexist.com/",
@@ -557,6 +549,14 @@
         "githubUrl": "https://www.siteliner.com/",
         "previewImg": "https://page2images.b-cdn.net/ccimages/bf/8d/yPQBAHitssLGP4WW.png", 
         "tags": ["saas", "dashboard", "light theme"]
+    },
+    {
+        "name": "Socialblade",
+        "category": "Youtube-tool",
+        "previewUrl": "https://socialblade.com/",
+        "githubUrl": "https://socialblade.com/",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/b2/cd/CJKheJ2P3lhwI7Q4.png", 
+        "tags": ["Youtube-tool", "light theme"]
     },
     {
         "name": "Adobe Analytics",
