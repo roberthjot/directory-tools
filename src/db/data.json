@@ -415,14 +415,6 @@
         "tags": ["saas", "dashboard", "light theme"]
     },
     {
-        "name": "Viewstats - Youtube",
-        "category": "Seo-tool",
-        "previewUrl": "https://www.viewstats.com/",
-        "githubUrl": "https://www.viewstats.com/",
-        "previewImg": "https://page2images.b-cdn.net/ccimages/ee/64/z2Xwk9FEqk7bDiYC.png", 
-        "tags": ["saas", "dashboard", "light theme"]
-    },
-    {
         "name": "Thispersondoesnotexist",
         "category": "Seo-tool",
         "previewUrl": "https://thispersondoesnotexist.com/",
@@ -556,6 +548,14 @@
         "previewUrl": "https://socialblade.com/",
         "githubUrl": "https://socialblade.com/",
         "previewImg": "https://page2images.b-cdn.net/ccimages/b2/cd/CJKheJ2P3lhwI7Q4.png", 
+        "tags": ["Youtube-tool", "light theme"]
+    },
+    {
+        "name": "Viewstats",
+        "category": "Youtube-tool",
+        "previewUrl": "https://www.viewstats.com/",
+        "githubUrl": "https://www.viewstats.com/",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/ee/64/z2Xwk9FEqk7bDiYC.png", 
         "tags": ["Youtube-tool", "light theme"]
     },
     {
@@ -2813,5 +2813,21 @@
         "githubUrl": "https://deepstatemap.live/en#7/48.3602786/38.2590267",
         "previewImg": "https://page2images.b-cdn.net/ccimages/0a/5a/27Jpv6444MkcNOCT.png", 
         "tags": ["car", "Military", "car wash", "wash"]
+    },
+    {
+        "name": "Google Adsense",
+        "category": "AD-Networks",
+        "previewUrl": "https://adsense.google.com/start/",
+        "githubUrl": "https://adsense.google.com/start/",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/1a/49/efyTC1wmJIO0e45Y.png", 
+        "tags": ["car", "AD-Networks", "car wash", "wash"]
+    },
+    {
+        "name": "Ezoic",
+        "category": "AD-Networks",
+        "previewUrl": "https://www.ezoic.com/",
+        "githubUrl": "https://www.ezoic.com/",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/d1/80/hWr5MfcHQtGniIUB.png", 
+        "tags": ["car", "AD-Networks", "car wash", "wash"]
     }
 ]
