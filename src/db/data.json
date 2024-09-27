@@ -1399,6 +1399,14 @@
         "tags": ["car", "Dev-tools", "car wash", "wash"]
     },
     {
+        "name": "Resend",
+        "category": "Dev-tools",
+        "previewUrl": "https://resend.com/",
+        "githubUrl": "https://resend.com/",
+        "previewImg": "data:image/jpeg;base64,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", 
+        "tags": ["car", "Dev-tools", "car wash", "wash"]
+    },
+    {
         "name": "Tronscan",
         "category": "Crypto-tools",
         "previewUrl": "https://tronscan.org/#/",
@@ -1575,6 +1583,30 @@
         "tags": ["car", "IA-tools", "car wash", "wash"]
     },
     {
+        "name": "Klingai",
+        "category": "IA-tools",
+        "previewUrl": "https://www.klingai.com/",
+        "githubUrl": "https://www.klingai.com/",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/10/f2/6s1pWZPOqnkeBRfL.png", 
+        "tags": ["car", "IA-tools", "car wash", "wash"]
+    },
+    {
+        "name": "Lumalabs AI",
+        "category": "IA-tools",
+        "previewUrl": "https://lumalabs.ai/dream-machine",
+        "githubUrl": "https://lumalabs.ai/dream-machine",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/36/8e/nvN9ABPzvePbk5tQ.png", 
+        "tags": ["car", "IA-tools", "car wash", "wash"]
+    },
+    {
+        "name": "Stablediffusionweb",
+        "category": "IA-tools",
+        "previewUrl": "https://stablediffusionweb.com/",
+        "githubUrl": "https://stablediffusionweb.com/",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/d8/cf/QoP191TYCjK2EAvF.png", 
+        "tags": ["car", "IA-tools", "car wash", "wash"]
+    },
+    {
         "name": "Porkbun",
         "category": "Hosting",
         "previewUrl": "https://porkbun.com/",
@@ -1748,6 +1780,14 @@
         "previewUrl": "https://jitter.video/",
         "githubUrl": "https://jitter.video/",
         "previewImg": "https://page2images.b-cdn.net/ccimages/76/30/DvKoP2ghFlAV6P6Y.png", 
+        "tags": ["car", "Design-tools", "car wash", "wash"]
+    },
+    {
+        "name": "Getyarn",
+        "category": "Design-tools",
+        "previewUrl": "https://getyarn.io/",
+        "githubUrl": "https://getyarn.io/",
+        "previewImg": "https://page2images.b-cdn.net/ccimages/3a/3d/lDtOvDCeT3A3AVYJ.png", 
         "tags": ["car", "Design-tools", "car wash", "wash"]
     },
     {
